@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "allfiles.h": "c",
+        "matrix_operations3.h": "c",
+        "init_functions1.h": "c",
+        "ft_fatoi.h": "c",
+        "matrix_operations4.h": "c",
+        "matrix_operations5.h": "c",
+        "store_plane.h": "c",
+        "coloring_functions.h": "c",
+        "sstream": "c",
+        "vector_operations3.h": "c",
+        "init_functions4.h": "c",
+        "general_utils3.h": "c",
+        "color_operations1.h": "c"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files.associations": {
+        "destroy1.h": "c",
+        "structs.h": "c",
+        "coloring_functions.h": "c",
+        "matrix_operations5.h": "c",
+        "iosfwd": "c",
+        "iterator": "c",
+        "libft.h": "c",
+        "init_functions3.h": "c",
+        "__tuple": "c",
+        "array": "c",
+        "macros.h": "c",
+        "algorithm": "c",
+        "vector_operations2.h": "c",
+        "cstdlib": "c",
+        "locale": "c",
+        "ostream": "c",
+        "new": "c",
+        "general_utils.h": "c",
+        "matrix_operations1.h": "c",
+        "prepare_computations_utils.h": "c",
+        "set_comp_n_vals.h": "c",
+        "matrix_operations3.h": "c",
+        "color_operations1.h": "c",
+        "render.h": "c"
+    }
+}
